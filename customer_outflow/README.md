@@ -9,7 +9,6 @@
 - pandas
 - matplotlib
 - seaborn
-- plotly
 - scipy
 - исследовательский анализ
 - проверка статистических гипотез
